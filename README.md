@@ -4,4 +4,4 @@ Here will be placed a few projects made for JetBrains Academy / Python developer
 
 List of projects completed:
 
-Zookeaper.
+1. Zookeaper.
