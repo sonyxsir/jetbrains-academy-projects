@@ -1,2 +1,7 @@
 # jetbrains-academy-projects
-Small projects developed for JetBrains Academy / Python developer course
+
+Here will be placed a few projects made for JetBrains Academy / Python developer course.
+
+List of projects completed:
+
+Zookeaper.
