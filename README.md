@@ -14,3 +14,5 @@ List of projects completed:
   Here, at the beginning of your programmer’s path, creating a simple console chat bot will do wonders to guide you through the basics of coding. During this journey you will also play some word and number games that you are going to implement all on your own. Pack up and let’s hit the road, my friend!
 5. <b>Hangman</b>.
   Games can help you kill time when you’re bored. But before smartphones, people played games the classic way – with paper and pencil. Let’s recreate one such game and improve your programming skills in the process. In this project, you will code Hangman, a game where the player has to guess a word, letter by letter, in a limited number of attempts. Make a program that plays Hangman with you – and good luck with the guessing!
+6. <b>Tic-Tac-Toe</b>.
+  Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!
